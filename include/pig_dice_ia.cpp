@@ -1,7 +1,6 @@
 /**
  * @file pig_dice_ia.cpp
  * @author Janeto Erick
- * @author Julio Cesar
  * @brief Função de IA (inteligencia artificial)
 */
 
