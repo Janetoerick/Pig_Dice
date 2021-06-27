@@ -1,7 +1,6 @@
 /**
  * @file main.cpp
  * @author Janeto Erick
- * @author Julio Cesar
  * @brief Função de IA (inteligencia artificial)
 */
 
