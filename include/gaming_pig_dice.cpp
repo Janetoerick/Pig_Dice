@@ -1,7 +1,6 @@
 /**
  * @file gaming_pig_dice.cpp
  * @author Janeto Erick
- * @author Julio Cesar
  * @brief Funcoes para rodar o jogo
 */
 
