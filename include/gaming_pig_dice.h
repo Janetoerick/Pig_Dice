@@ -1,7 +1,6 @@
 /**
  * @file gaming_pig_dice.h
  * @author Janeto Erick
- * @author Julio Cesar
 */
 
 #include "gaming_pig_dice.cpp"
